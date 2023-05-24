@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gangamani
 - 👀 I’m interested in ...🥰 Software development
-- 🌱 I’m currently learning ... C++
+- 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... program language
 - 📫 How to reach me ...
 
